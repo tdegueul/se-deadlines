@@ -61,6 +61,16 @@
   place: Beijing, China
   sub: CF
 
+- name: MSR
+  year: 2018
+  id: msr18
+  link: https://conf.researchr.org/home/msr-2018
+  deadline: "2018-01-30 23:59:59"
+  timezone: Etc/GMT+12
+  date: May 28 - May 29, 2018
+  place: Gothenburg, Sweden
+  sub: SE
+
 - name: WAPI@ICSE
   year: 2018
   id: wapi18
