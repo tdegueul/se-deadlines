@@ -17,8 +17,8 @@
   link: http://programming-journal.org/
   deadline: "2018-10-01 23:59:59"
   timezone: Etc/GMT+12
-  date: ""
-  place: ""
+  date: Unknown
+  place: Unknown
   sub: CF
 
 - name: ICST
