@@ -1,16 +1,14 @@
 
 ---
-  
-### FUTURE ###
 
 - name: Programming
   year: 2018
-  id: prog18-3
+  id: prog18
   link: http://programming-journal.org/
   deadline: "2018-10-01 23:59:59"
   timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
+  date: ""
+  place: ""
   sub: SE
 
 - name: SANER
@@ -33,76 +31,14 @@
   place: Beijing, China
   sub: SE
 
-### PAST ###
-
-- name: ICSE
-  year: 2019
-  id: icse19
-  link: https://conf.researchr.org/home/icse-2019
-  deadline: "2018-08-24 23:59:59"
-  timezone: Etc/GMT+12
-  date: May 25 - May 31, 2019
-  place: Montréal, QC, Canada
-  sub: SE
-
-- name: SLE
+- name: ESEC/FSE
   year: 2018
-  id: sle18
-  link: http://www.sleconf.org/2018/
-  deadline: "2018-07-06 23:59:59"
+  id: fse18
+  link: https://conf.researchr.org/home/fse-2018
+  deadline: "2018-03-09 23:59:59"
   timezone: Etc/GMT+12
-  date: November 5 - November 6, 2018
-  place: Boston, MA, USA
-  sub: SE
-
-- name: ESEM
-  year: 2018
-  id: esem18
-  link: http://eseiw2018.wixsite.com/esem2018
-  deadline: "2018-05-25 23:59:59"
-  timezone: Etc/GMT+12
-  date: October 11 - October 12, 2018
-  place: Oulu, Finland
-  sub: SE
-
-- name: MODELS
-  year: 2018
-  id: models18
-  link: http://modelsconference.org/
-  deadline: "2018-05-04 23:59:59"
-  timezone: Etc/GMT+12
-  date: October 14 - October 19, 2018
-  place: Copenhagen, Denmark
-  sub: SE
-
-- name: ASE
-  year: 2018
-  id: ase18
-  link: http://www.ase2018.com/
-  deadline: "2018-04-26 23:59:59"
-  timezone: Etc/GMT+12
-  date: September 3 - September 7, 2018
-  place: Toulouse, France
-  sub: SE
-
-- name: OOPSLA
-  year: 2018
-  id: oopsla18
-  link: https://conf.researchr.org/track/splash-2018/splash-2018-OOPSLA
-  deadline: "2018-04-16 23:59:59"
-  timezone: Etc/GMT+12
-  date: November 7 - November 9, 2018
-  place: Boston, MA, USA
-  sub: SE
-
-- name: ICSME
-  year: 2018
-  id: icsme18
-  link: https://icsme2018.github.io/
-  deadline: "2018-04-06 23:59:59"
-  timezone: Etc/GMT+12
-  date: September 23 - September 29, 2018
-  place: Madrid, Spain
+  date: November 4 - November 9, 2018
+  place: Lake Buena Vista, Florida, USA
   sub: SE
 
 - name: SPLC
@@ -115,22 +51,72 @@
   place: Gothenburg, Sweden
   sub: SE
 
-- name: ESEC/FSE
+- name: ICSME
   year: 2018
-  id: fse18
-  link: https://conf.researchr.org/home/fse-2018
-  deadline: "2018-03-09 23:59:59"
+  id: icsme18
+  link: https://icsme2018.github.io/
+  deadline: "2018-04-06 23:59:59"
   timezone: Etc/GMT+12
-  date: November 4 - November 9, 2018
-  place: Lake Buena Vista, Florida, USA
+  date: September 23 - September 29, 2018
+  place: Madrid, Spain
   sub: SE
 
-- name: MSR
+- name: OOPSLA
   year: 2018
-  id: msr18
-  link: https://conf.researchr.org/home/msr-2018
-  deadline: "2018-01-30 23:59:59"
+  id: oopsla18
+  link: https://conf.researchr.org/track/splash-2018/splash-2018-OOPSLA
+  deadline: "2018-04-16 23:59:59"
   timezone: Etc/GMT+12
-  date: May 28 - May 29, 2018
-  place: Gothenburg, Sweden
+  date: November 7 - November 9, 2018
+  place: Boston, MA, USA
+  sub: SE
+
+- name: ASE
+  year: 2018
+  id: ase18
+  link: http://www.ase2018.com/
+  deadline: "2018-04-26 23:59:59"
+  timezone: Etc/GMT+12
+  date: September 3 - September 7, 2018
+  place: Toulouse, France
+  sub: SE
+
+- name: MODELS
+  year: 2018
+  id: models18
+  link: http://modelsconference.org/
+  deadline: "2018-05-04 23:59:59"
+  timezone: Etc/GMT+12
+  date: October 14 - October 19, 2018
+  place: Copenhagen, Denmark
+  sub: SE
+
+- name: ESEM
+  year: 2018
+  id: esem18
+  link: http://eseiw2018.wixsite.com/esem2018
+  deadline: "2018-05-25 23:59:59"
+  timezone: Etc/GMT+12
+  date: October 11 - October 12, 2018
+  place: Oulu, Finland
+  sub: SE
+
+- name: SLE
+  year: 2018
+  id: sle18
+  link: http://www.sleconf.org/2018/
+  deadline: "2018-07-06 23:59:59"
+  timezone: Etc/GMT+12
+  date: November 5 - November 6, 2018
+  place: Boston, MA, USA
+  sub: SE
+
+- name: ICSE
+  year: 2019
+  id: icse19
+  link: https://conf.researchr.org/home/icse-2019
+  deadline: "2018-08-24 23:59:59"
+  timezone: Etc/GMT+12
+  date: May 25 - May 31, 2019
+  place: "Montr\xE9al, QC, Canada"
   sub: SE

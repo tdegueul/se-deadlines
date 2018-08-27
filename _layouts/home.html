@@ -161,8 +161,8 @@
         }
         store.set('{{ site.domain }}', subs);
         window.history.pushState('', '', '/?sub=' + subs.join());
-
-        // Event handler on checkbox change
+        
+		// Event handler on checkbox change
         $('form :checkbox').change(function(e) {
           var checked = $(this).is(':checked');
           var cid = $(this).prop('id');

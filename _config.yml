@@ -2,8 +2,8 @@ title: SE Conference Deadlines # (Maintained by @tdegueul)
 description: Countdowns to some SE conference/workshops deadlines
 author: Thomas Degueule
 
-#domain: "aideadlin.es"
-baseurl: "/se-deadlines"
+domain: "https://tdegueul.github.io/se-deadlines/"
+baseurl: /se-deadlines
 
 twitter_username: tdegueul
 #twitter_hashtag: machinelearning
