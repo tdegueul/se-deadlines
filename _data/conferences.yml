@@ -131,6 +131,16 @@
   place: Boston, MA, USA
   sub: CF
 
+- name: Onward!
+  year: 2018
+  id: onward18
+  link: https://2018.onward-conference.org/home
+  deadline: "2018-04-23 23:59:59"
+  timezone: Etc/GMT+12
+  date: November 4 - November 9, 2018
+  place: Boston, MA, USA
+  sub: CF
+
 - name: ASE
   year: 2018
   id: ase18
