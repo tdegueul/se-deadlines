@@ -3,7 +3,7 @@ description: Countdowns to some SE conference/workshops deadlines
 author: Thomas Degueule
 
 #domain: "aideadlin.es"
-baseurl: "se-deadlines"
+baseurl: "/se-deadlines"
 
 twitter_username: tdegueul
 #twitter_hashtag: machinelearning
