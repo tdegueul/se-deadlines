@@ -1,282 +1,136 @@
 
 ---
+  
+### FUTURE ###
 
-- name: AAAI
-  year: 2019
-  id: aaai19
-  link: https://aaai.org/Conferences/AAAI-19/
-  deadline: "2018-09-05 23:59:59"
-  timezone: Etc/GMT+10
-  date: January 27 - February 1, 2019
-  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
-  sub: ML
-
-- name: ICRA
-  year: 2019
-  id: icra2019
-  link: https://icra2019.org//
-  deadline: "2018-09-15 23:59:59"
-  timezone: Etc/GMT
-  date: May 20-24, 2019
-  place: Montreal, Canada
-  sub: RO
-
-- name: ICLR
-  year: 2019
-  id: iclr19
-  link: http://iclr.cc/
-  deadline: "2018-09-27 16:59:59"
-  timezone: EST
-  date: May 6-9, 2019
-  place: New Orleans, Louisiana, US
-  sub: ML
-
-- name: AES
-  year: 2019
-  id: aes2019
-  link: http://www.aes.org/conferences/2019/immersive/
+- name: Programming
+  year: 2018
+  id: prog18-3
+  link: http://programming-journal.org/
   deadline: "2018-10-01 23:59:59"
-  timezone: Etc/GMT
-  date: March 27-29, 2019
-  place: York, UK
-  sub: SP
-
-- name: AISTATS
-  year: 2019
-  id: aistats19
-  link: https://www.aistats.org/
-  deadline: "2018-10-04 23:59:59"
-  timezone: America/Los_Angeles
-  date: April 16-18, 2019
-  place: Naha, Okinawa, Japan
-  sub: ML
-
-- name: ICASSP
-  year: 2019
-  id: icassp2019
-  link: http://icassp2019.com/
-  deadline: "2018-10-29 23:59:59"
-  timezone: Etc/GMT
-  date: May 12-17, 2019
-  place: Brighton, UK
-  sub: SP
-
-- name: CVPR
-  year: 2019
-  id: cvpr19
-  link: http://cvpr2019.thecvf.com/
-  deadline: "2018-11-16 23:59:59"
-  timezone: America/Los_Angeles
-  date: June 15-21, 2019
-  place: Long Beach, USA
-  sub: CV
-
-- name: NAACL
-  year: 2019
-  id: naacl19
-  link: http://naacl2019.org/
-  deadline: "2018-12-10 23:59:59"
   timezone: Etc/GMT+12
-  date: June 2-7, 2019
-  place: Minneapolis, USA
-  sub: NLP
+  date: TBA
+  place: TBA
+  sub: SE
 
-- name: ICML
+- name: SANER
   year: 2019
-  id: icml19
-  link: https://icml.cc/Conferences/2019
-  deadline: TBA
-  timezone: TBA
-  date: June 10-15, 2019
-  place: Long Beach Convention Center, Long Beach, USA
-  sub: ML
+  id: saner19
+  link: https://saner2019.github.io/
+  deadline: "2018-10-19 23:59:59"
+  timezone: Etc/GMT+12
+  date: February 24 - February 27, 2019
+  place: Hangzhou, China
+  sub: SE
 
-- name: ACL
+- name: ISSTA
   year: 2019
-  id: acl19
-  link: http://acl2019.org/
-  deadline: TBA
+  id: issta19
+  link: https://conf.researchr.org/home/issta-2019
+  deadline: "2019-01-28 23:59:59"
   timezone: Etc/GMT+12
-  date: July 28-August 2, 2019
-  place: Florence, Italy
-  sub: NLP
+  date: July 15 - July 19, 2019
+  place: Beijing, China
+  sub: SE
 
-- name: AAMAS
-  year: 2018
-  id: aamas18
-  link: http://celweb.vuse.vanderbilt.edu/aamas18
-  deadline: "2017-11-14 23:59:00"
+### PAST ###
+
+- name: ICSE
+  year: 2019
+  id: icse19
+  link: https://conf.researchr.org/home/icse-2019
+  deadline: "2018-08-24 23:59:59"
   timezone: Etc/GMT+12
-  date: July 11-13, 2018
-  place: Stockholm, Sweden
-  sub: ML
+  date: May 25 - May 31, 2019
+  place: Montréal, QC, Canada
+  sub: SE
 
-- name: SIGGRAPH
+- name: SLE
   year: 2018
-  id: siggraph18
-  link: http://s2018.siggraph.org/
-  deadline: "2018-01-23 21:59:59"
-  timezone: GMT
-  date: August 12-16, 2018
-  place: Vancouver, Canada
-  sub: CV
-
-- name: IJCAI
-  year: 2018
-  id: ijcai18
-  link: https://www.ijcai-18.org/
-  deadline: "2018-01-31 23:59:59"
+  id: sle18
+  link: http://www.sleconf.org/2018/
+  deadline: "2018-07-06 23:59:59"
   timezone: Etc/GMT+12
-  date: July 13-19, 2018
-  place: Stockholm, Sweden
-  sub: ML
+  date: November 5 - November 6, 2018
+  place: Boston, MA, USA
+  sub: SE
 
-- name: RSS
+- name: ESEM
   year: 2018
-  id: rss18
-  link: http://www.roboticsconference.org/
-  deadline: "2018-02-01 23:59:59"
+  id: esem18
+  link: http://eseiw2018.wixsite.com/esem2018
+  deadline: "2018-05-25 23:59:59"
   timezone: Etc/GMT+12
-  date: June 26-30, 2018
-  place: Pittsburgh, Pennsylvania, USA
-  sub: RO
+  date: October 11 - October 12, 2018
+  place: Oulu, Finland
+  sub: SE
 
-- name: ICML
+- name: MODELS
   year: 2018
-  id: icml18
-  link: https://icml.cc/Conferences/2018
-  deadline: "2018-02-09 18:59:59"
-  timezone: EST
-  date: July 10-15, 2018
-  place: Stockholm, Sweden
-  sub: ML
+  id: models18
+  link: http://modelsconference.org/
+  deadline: "2018-05-04 23:59:59"
+  timezone: Etc/GMT+12
+  date: October 14 - October 19, 2018
+  place: Copenhagen, Denmark
+  sub: SE
 
-- name: KDD
+- name: ASE
   year: 2018
-  id: kdd18
-  link: http://www.kdd.org/kdd2018/
-  deadline: "2018-02-11 23:59:59"
-  timezone: America/Los_Angeles
-  date: August 19-23, 2018
-  place: London, United Kingdom
-  sub: ML
+  id: ase18
+  link: http://www.ase2018.com/
+  deadline: "2018-04-26 23:59:59"
+  timezone: Etc/GMT+12
+  date: September 3 - September 7, 2018
+  place: Toulouse, France
+  sub: SE
 
-- name: COLT
+- name: OOPSLA
   year: 2018
-  id: colt18
-  link: http://www.learningtheory.org/colt2018/
-  deadline: "2018-02-16 22:59:59"
-  timezone: EST
-  date: July 5-9, 2018
-  place: Stockholm, Sweden
-  sub: ML
+  id: oopsla18
+  link: https://conf.researchr.org/track/splash-2018/splash-2018-OOPSLA
+  deadline: "2018-04-16 23:59:59"
+  timezone: Etc/GMT+12
+  date: November 7 - November 9, 2018
+  place: Boston, MA, USA
+  sub: SE
 
-- name: IROS
+- name: ICSME
   year: 2018
-  id: iros2018
-  link: https://www.iros2018.org/
-  deadline: "2018-03-01 23:59:59"
-  timezone: CET
-  date: October 1-5, 2018
+  id: icsme18
+  link: https://icsme2018.github.io/
+  deadline: "2018-04-06 23:59:59"
+  timezone: Etc/GMT+12
+  date: September 23 - September 29, 2018
   place: Madrid, Spain
-  sub: RO
+  sub: SE
 
-- name: UAI
+- name: SPLC
   year: 2018
-  id: uai18
-  link: http://auai.org/uai2018/index.php
-  deadline: "2018-03-09 23:59:59"
-  timezone: Etc/GMT+11
-  date: August 06-10, 2018
-  place: Monterey, California, USA
-  sub: ML
-
-- name: ECCV
-  year: 2018
-  id: eccv18
-  link: https://eccv2018.org/
-  deadline: "2018-03-14 15:59:00"
-  timezone: America/Los_Angeles
-  date: September 8-14, 2018
-  place: Munich, Germany
-  sub: CV
-
-- name: COLING
-  year: 2018
-  id: coling18
-  link: http://coling2018.org/
-  deadline: "2018-03-16 23:59:59"
-  timezone: America/Adak
-  date: August 20-25, 2018
-  place: Santa Fe, New Mexico, USA
-  sub: NLP
-
-- name: Interspeech
-  year: 2018
-  id: interspeech18
-  link: http://interspeech2018.org/
-  deadline: "2018-03-23 23:59:59"
-  timezone: Etc/GMT
-  date: September 2-6, 2018
-  place: Hyderabad, India
-  sub: SP
-
-- name: BMVC
-  year: 2018
-  id: bmvc2018
-  link: http://bmvc2018.org/
-  deadline: "2018-05-07 23:59:59"
-  timezone: America/Los_Angeles
-  date: September 03-06, 2018
-  place: Newcastle upon Tyne
-  sub: CV
-
-- name: NIPS
-  year: 2018
-  id: nips18
-  link: https://nips.cc/Conferences/2018
-  deadline: "2018-05-18 13:00:00"
-  timezone: America/Los_Angeles
-  date: December 3-8, 2018
-  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
-  sub: ML
-
-- name: EMNLP
-  year: 2018
-  id: emnlp18
-  link: http://emnlp2018.org
-  deadline: "2018-05-22 23:59:59"
-  timezone: America/Los_Angeles
-  date: November 2-4, 2018
-  place: Brussels, Belgium
-  sub: NLP
-
-- name: CoNLL
-  year: 2018
-  id: conll18
-  link: http://www.conll.org/
-  deadline: "2018-06-01 23:59:59"
+  id: splc2018
+  link: http://splc2018.net/
+  deadline: "2018-04-03 23:59:59"
   timezone: Etc/GMT+12
-  date: October 31 - November 1, 2018
-  place: Brussels, Belgium
-  sub: NLP
+  date: September 10 - September 14, 2018
+  place: Gothenburg, Sweden
+  sub: SE
 
-- name: ICDM
+- name: ESEC/FSE
   year: 2018
-  id: icdm2018
-  link: http://icdm2018.org/
-  deadline: "2018-06-05 23:59:59"
-  timezone: Etc/GMT-7
-  date: November 17-20, 2018
-  place: Singapore
-  sub: ML
+  id: fse18
+  link: https://conf.researchr.org/home/fse-2018
+  deadline: "2018-03-09 23:59:59"
+  timezone: Etc/GMT+12
+  date: November 4 - November 9, 2018
+  place: Lake Buena Vista, Florida, USA
+  sub: SE
 
-- name: CoRL
+- name: MSR
   year: 2018
-  id: corl2018
-  link: http://www.robot-learning.org/
-  deadline: "2018-06-15 17:00:00"
-  timezone: America/Los_Angeles
-  date: October 29-31, 2018
-  place: Zurich, Switzerland
-  sub: RO
+  id: msr18
+  link: https://conf.researchr.org/home/msr-2018
+  deadline: "2018-01-30 23:59:59"
+  timezone: Etc/GMT+12
+  date: May 28 - May 29, 2018
+  place: Gothenburg, Sweden
+  sub: SE

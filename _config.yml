@@ -1,15 +1,14 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: SE Conference Deadlines # (Maintained by @tdegueul)
+description: Countdowns to some SE conference/workshops deadlines
+author: Thomas Degueule
 
-domain: "aideadlin.es"
+#domain: "aideadlin.es"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+twitter_username: tdegueul
+#twitter_hashtag: machinelearning
+github_username: tdegueul
+github_repo: se-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
+#ga_id: UA-36274081-2
