@@ -81,6 +81,16 @@
   place: Gothenburg, Sweden
   sub: WS
 
+- name: ICPC
+  year: 2018
+  id: icpc18
+  link: https://conf.researchr.org/home/icpc-2018
+  deadline: "2018-02-06 23:59:59"
+  timezone: Etc/GMT+12
+  date: May 27 - May 28, 2018
+  place: Gothenburg, Sweden
+  sub: CF
+
 - name: MiSE@ICSE
   year: 2018
   id: mise18
@@ -169,6 +179,16 @@
   timezone: Etc/GMT+12
   date: October 11 - October 12, 2018
   place: Oulu, Finland
+  sub: CF
+
+- name: SCAM
+  year: 2018
+  id: scam18
+  link: http://www.ieee-scam.org/2018
+  deadline: "2018-06-15 23:59:59"
+  timezone: Etc/GMT+12
+  date: September 23 - September 24, 2018
+  place: Madrid, Spain
   sub: CF
 
 - name: SLE
