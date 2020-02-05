@@ -84,19 +84,16 @@
     <script type="text/javascript" charset="utf-8">
     $(function() {
         {% for conf in site.data.conferences %}
-        {% if conf.deadline == "TBA" %}
-          $('#{{conf.id}} .timer').html("TBA");
-          $('#{{conf.id}} .deadline-time').html("TBA");
-        {% else %}
           // adjust date according to deadline timezone
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
           var confDate = moment.tz("{{conf.deadline}}", timezone);
+          var prediction = {% if conf.prediction %}" (prediction)" {% else %} "" {% endif %};
 
           // render countdown timer
           $('#{{conf.id}} .timer').countdown(confDate.toDate(), function(event) {
             $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
           });
-          $('#{{conf.id}} .deadline-time').html(confDate.toString());
+          $('#{{conf.id}} .deadline-time').html(confDate.toString() + prediction);
 
           // add calendar button
           var myCalendar = createCalendar({
@@ -123,7 +120,6 @@
           var today = moment();
           if (today.diff(confDate) > 0)
             $('#{{conf.id}}').addClass('past');
-        {% endif %}
         {% endfor %}
 
         // Set checkboxes
